@@ -1,3 +1,4 @@
+cd ../
 git clone https://github.com/rangaeeeee/books-beaglebone.git
 git clone https://github.com/rangaeeeee/books-tcpip.git
 git clone https://github.com/rangaeeeee/books-c.git
@@ -31,7 +32,7 @@ git clone https://github.com/rangaeeeee/books-music.git
 git clone https://github.com/rangaeeeee/books-photography.git
 git clone https://github.com/rangaeeeee/books-cloud.git
 git clone https://github.com/rangaeeeee/books-database.git
-git clone https://github.com/rangaeeeee/books-datastructure.git
+git clone https://github.com/rangaeeeee/books-datastructures.git
 git clone https://github.com/rangaeeeee/books-microsoft.git
 git clone https://github.com/rangaeeeee/books-gmat.git
 git clone https://github.com/rangaeeeee/books-hacking.git
