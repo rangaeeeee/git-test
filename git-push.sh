@@ -190,4 +190,8 @@ cd ../books-android
 git add .
 git commit -m 'added in January 2017'
 git push https://github.com/rangaeeeee/books-android.git
+cd ../git-test
+git add .
+git commit -m 'added in January 2017'
+git push https://github.com/rangaeeeee/git-test.git
 #git push https://github.com/rangaeeeee/

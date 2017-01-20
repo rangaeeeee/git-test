@@ -46,4 +46,5 @@ git clone https://github.com/rangaeeeee/books-mathematics.git
 git clone https://github.com/rangaeeeee/books-html.git
 git clone https://github.com/rangaeeeee/books-adruino.git
 git clone https://github.com/rangaeeeee/books-android.git
+git clone https://github.com/rangaeeeee/git-test.git
 #git clone https://github.com/rangaeeeee/

@@ -94,4 +94,6 @@ cd ../books-adruino
 git pull https://github.com/rangaeeeee/books-adruino.git
 cd ../books-android
 git pull https://github.com/rangaeeeee/books-android.git
+cd ../git-test
+git pull https://github.com/rangaeeeee/git-test.git
 #git pull https://github.com/rangaeeeee/
