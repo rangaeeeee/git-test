@@ -1,4 +1,5 @@
 cd ../git-test
+rm .fuse*
 git checkout home
 git add .
 git commit -m 'added in January 2017 - home branch'
