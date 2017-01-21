@@ -9,5 +9,6 @@ git merge home
 git add .
 git commit -m 'added in January 2017 - master branch'
 git push git@github.com:rangaeeeee/code-bash.git
+git push origin/master
 git checkout home
 
